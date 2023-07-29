@@ -1,7 +1,5 @@
 # mkcdir
-Shell script for linux that creates a folder and sets it as the working directory in the same step
-
-----
+Shell script for unix that creates a folder and sets it as the working directory in the same step.
 
 ### Example
 
