@@ -2,4 +2,4 @@
 
 mkdir $1
 cd $1/
-/bin/bash
+/bin/zsh
